@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Feyyaz Acet
 
 ## 𝗦𝘁𝗮𝘁𝘀
-![fyzact's github stats](https://github-readme-stats.vercel.app/api?username=fyzact&show_icons=true&theme=dracula)
+![fyzact's github stats](https://github-readme-stats.vercel.app/api?username=fyzact&show_icons=true)
 <!--
 **fyzact/fyzact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
